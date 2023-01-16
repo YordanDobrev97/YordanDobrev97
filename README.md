@@ -1,15 +1,10 @@
 <h1 align="center">Hi 👋, I am Yordan !</h1>
         
 <h2 align="center">I'm Full-Stack Developer</h3>
-        <br>
+<br />
 
 <div align="center">
-<div>
-  <img height="160" align="left" src="https://github-readme-stats.vercel.app/api?username=YordanDobrev97&count_private=true&true&hide=issues&show_icons=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YordanDobrev97&layout=compact" />
-</div>
-
-📫 Reach me at **yordan.19Dobrev@gmail.com**
+📫 Reach me at yordan.19Dobrev@gmail.com
 </div>
 
 
