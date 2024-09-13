@@ -28,5 +28,6 @@
         <img src="https://i.pinimg.com/736x/32/9a/d8/329ad85f4ab2047cae13d582274f9270.jpg" alt="javascript" width="120" height="110" />
         <img src="https://graphqleditor.com/images/graphql.png" alt="javascript" width="120" height="110" />
         <img src="https://miro.medium.com/v2/resize:fit:800/0*ZoXaXztJdbGgb4fk.png" alt="javascript" width="140" height="130" />
+        <img src="https://miro.medium.com/v2/resize:fit:500/1*tOI6UC5EaS2fPItCesI-AQ.png" alt="javascript" width="140" height="130" />
        
 </p>
