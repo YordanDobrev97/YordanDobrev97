@@ -3,7 +3,7 @@
 <h2 align="center">I'm Full-Stack Developer</h3>
 <br />
 
-<p align="center">Front-End Developer with 2 years of hands-on experience in building responsive web and game applications.</p>
+<p align="center">Front-End Developer with 3 years of hands-on experience in building responsive web and game applications.</p>
 
 <div align="center">
 📫 Reach me at yordan.19Dobrev@gmail.com
